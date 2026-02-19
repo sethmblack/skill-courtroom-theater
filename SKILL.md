@@ -3,8 +3,9 @@ name: courtroom-theater
 description: Transform a legal proceeding into political theater that advances the defendant's message regardless of verdict outcome.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3703
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
